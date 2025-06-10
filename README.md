@@ -115,9 +115,3 @@ A API será iniciada em:
 - **Método:** `DELETE`
 - **URL:** `/produtos/{id}`
 
----
-
-👩‍💻 Autora
-
-Rafaela Lacerda  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rafaela-almeida-de-lacerda-66965223b/))
