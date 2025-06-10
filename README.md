@@ -59,7 +59,7 @@ cd api-produtos
 ```
 
 A API será iniciada em:  
-📍 `http://localhost:8081`
+📍 `http://localhost:8080`
 
 ---
 
